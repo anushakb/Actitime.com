@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[sample is working fine]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="81" started-at="2020-07-01T10:19:06 IST" finished-at="2020-07-01T10:19:06 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="81" started-at="2020-07-01T10:19:06 IST" finished-at="2020-07-01T10:19:06 IST">
+      <class name="actiTime.Sample">
+        <test-method status="PASS" signature="sample()[pri:0, instance:actiTime.Sample@3a883ce7]" name="sample" duration-ms="19" started-at="2020-07-01T10:19:06 IST" finished-at="2020-07-01T10:19:06 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[sample is working fine]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sample -->
+      </class> <!-- actiTime.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
